@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ylzinfo</groupId>
-    <artifactId>hospehc</artifactId>
+    <artifactId>hospemc</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
     <modules>
-        <module>hospehc-api</module>
-        <module>hospehc-service</module>
-        <module>hospehc-web</module>
+        <module>hospemc-api</module>
+        <module>hospemc-service</module>
+        <module>hospemc-web</module>
     </modules>
 
     <parent>

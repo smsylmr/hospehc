@@ -6,12 +6,138 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33eda4b3-2b7f-48e9-bfff-fea0ea79d96f" name="Default Changelist" comment="" />
+    <list default="true" id="33eda4b3-2b7f-48e9-bfff-fea0ea79d96f" name="Default Changelist" comment=".gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/pojo/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/pojo/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/service/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/service/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/util/TraceIdFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/util/TraceIdFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/util/TraceIdUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/util/TraceIdUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/target/classes/com/ylzinfo/hospehc/pojo/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/target/classes/com/ylzinfo/hospehc/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/target/classes/com/ylzinfo/hospehc/service/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/target/classes/com/ylzinfo/hospehc/util/TraceIdFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-api/target/classes/com/ylzinfo/hospehc/util/TraceIdUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/DubboProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/DubboProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/LogAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/aop/LogAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/ServiceInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/aop/ServiceInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/ActiveMQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/ActiveMQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/DruidConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MemcachedConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/MemcachedConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/ActiveMQUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/utils/ActiveMQUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/resources/logback-dev.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/resources/logback-dev.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/resources/logback-prd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/resources/logback-prd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/src/main/resources/mapper/AccountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-service/src/main/resources/mapper/AccountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/DubboProviderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/aop/LogAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/aop/ServiceInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/config/ActiveMQConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/config/DruidConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/config/MemcachedConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/service/impl/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/utils/ActiveMQUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/com/ylzinfo/hospehc/utils/StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/logback-dev.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/resources/logback-dev.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/logback-prd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/resources/logback-prd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-service/target/classes/mapper/AccountMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/DubboConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/DubboConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/aop/ControllerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/aop/ControllerInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/config/LocalSettingsEnvironmentPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/filter/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/filter/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hospemc-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/resources/logback-dev.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/src/main/resources/logback-prd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/com/ylzinfo/hospehc/DubboConsumerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/com/ylzinfo/hospehc/aop/ControllerInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/com/ylzinfo/hospehc/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/com/ylzinfo/hospehc/filter/MyFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/logback-dev.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/classes/logback-prd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/com/ylzinfo/hospehc/DubboConsumerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/com/ylzinfo/hospehc/aop/ControllerInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/com/ylzinfo/hospehc/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/com/ylzinfo/hospehc/filter/MyFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/logback-dev.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/classes/logback-prd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/dubbo-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/dubbo-spring-boot-starter-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.3.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/hospehc-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.21.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-actuator-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-actuator-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-1.5.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.14.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/zkclient-0.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospehc-web/target/hospehc-web-0.0.1-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hospehc-api/target/" />
     <ignored path="$PROJECT_DIR$/hospehc-service/target/" />
     <ignored path="$PROJECT_DIR$/hospehc-web/target/" />
+    <ignored path="$PROJECT_DIR$/hospemc-api/target/" />
+    <ignored path="$PROJECT_DIR$/hospemc-service/target/" />
+    <ignored path="$PROJECT_DIR$/hospemc-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,121 +199,123 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1695095910">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="11" />
+          <entry key="spring.factories" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/controller/HelloController.java">
+        <entry file="file://$PROJECT_DIR$/hospemc-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="19" column="61" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/DubboConsumerApplication.java">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/aop/ControllerInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/ActiveMQConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/ActiveMQUtil.java">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/logback-dev.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MemcachedConfig.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+            <state relative-caret-position="-269">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/logback-prd.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/DubboProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#832#853#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/logback-dev.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="11" column="73" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/DruidConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,20 +343,19 @@
       <find>过滤器销毁</find>
       <find>memcached.enabled</find>
       <find>componentReport-web</find>
+      <find>component</find>
+      <find>hospehc</find>
     </findStrings>
+    <replaceStrings>
+      <replace>hospemc</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hospehc-service/src/main/java/HospehcServiceApplication.java" />
-        <option value="$PROJECT_DIR$/hospehc-web/src/main/java/HospehcWebApplication.java" />
-        <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/HospehcServiceApplication.java" />
-        <option value="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/HospehcWebApplication.java" />
-        <option value="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/service/filter/MyFilter.java" />
-        <option value="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/annotation/Column.java" />
-        <option value="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/annotation/Table.java" />
-        <option value="$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/pojo/StateInfo.java" />
-        <option value="$PROJECT_DIR$/hospehc-web/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/resources/Mapper/AccountMapper.xml" />
         <option value="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/service/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/AutoFixTableServiceImpl.java" />
@@ -259,7 +386,6 @@
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/ControllerInterceptor.java" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/ServiceInterceptor.java" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/DubboConsumerApplication.java" />
         <option value="$PROJECT_DIR$/hospehc-web/pom.xml" />
         <option value="$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.java" />
@@ -271,6 +397,16 @@
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/ActiveMQUtil.java" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MemcachedConfig.java" />
+        <option value="$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/util/TraceIdFilter.java" />
+        <option value="$PROJECT_DIR$/hospemc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hospemc-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/hospemc-service/src/main/resources/logback-dev.xml" />
+        <option value="$PROJECT_DIR$/hospemc-service/src/main/resources/logback-prd.xml" />
+        <option value="$PROJECT_DIR$/hospemc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hospemc-web/src/main/resources/logback-dev.xml" />
+        <option value="$PROJECT_DIR$/hospemc-web/src/main/resources/logback-prd.xml" />
+        <option value="$PROJECT_DIR$/hospemc-web/pom.xml" />
       </list>
     </option>
   </component>
@@ -296,21 +432,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hospehc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hospehc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hospehc-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -371,150 +493,78 @@
         <subPane>
           <expand>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-api" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
+              <item name="hospehc-bak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hospehc-bak" type="462c0819:PsiDirectoryNode" />
+              <item name="hospemc-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hospehc" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospehc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hospemc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -534,25 +584,23 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560159519375" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hospface" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560309592353" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hospemc-api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3254902" />
     <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\resources\META-INF\dubbo" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\resources\META-INF\dubbo" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\resources\META-INF" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\resources\META-INF" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\java\com\ylzinfo\hospehc" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\java\com\ylzinfo\hospehc" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\java\com\ylzinfo\hospehc\aop" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ylzinfo.hospehc.config" />
@@ -561,10 +609,12 @@
       <recent name="com.ylzinfo.hospehc.service" />
       <recent name="com.ylzinfo.hospehc.dao" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\resources\META-INF\dubbo" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\resources\META-INF\dubbo" />
-      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\resources\META-INF" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Study\hospehc-bak" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\resources\META-INF" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\java\com\ylzinfo\hospehc" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-web\src\main\java\com\ylzinfo\hospehc" />
+      <recent name="H:\GitlabProjects\hospehc\hospehc-service\src\main\java\com\ylzinfo\hospehc\aop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -579,33 +629,80 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.hospehc-web">
+  <component name="RunManager" selected="Tomcat Server.hospemc-web">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="hospemc-api" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="hospemc-api" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="hospehc-web" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ylzinfo.hospehc.DubboConsumerApplication" />
+      <module name="hospemc-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ylzinfo.hospemc.DubboConsumerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="hospehc-service" />
+      <module name="hospemc-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ylzinfo.hospehc.*" />
+          <option name="PATTERN" value="com.ylzinfo.hospemc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ylzinfo.hospehc.DubboProviderApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ylzinfo.hospemc.DubboProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hospehc-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="hospemc-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="hospehc-web:war exploded">
+        <artifact name="hospemc-web:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/hospehc" />
+            <option name="CONTEXT_PATH" value="/hospemc-web" />
           </settings>
         </artifact>
       </deployment>
@@ -669,12 +766,13 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="hospehc-web:war exploded" />
+          <artifact name="hospemc-web:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
       <item itemvalue="Spring Boot.DubboConsumerApplication" />
-      <item itemvalue="Tomcat Server.hospehc-web" />
+      <item itemvalue="Tomcat Server.hospemc-web" />
       <item itemvalue="Spring Boot.DubboProviderApplication" />
     </list>
     <recent_temporary>
@@ -710,11 +808,22 @@
       <workItem from="1560130201843" duration="2575000" />
       <workItem from="1560152109785" duration="5501000" />
       <workItem from="1560218383426" duration="5173000" />
+      <workItem from="1560235949425" duration="11000" />
+      <workItem from="1560236006632" duration="1146000" />
+      <workItem from="1560308022406" duration="1551000" />
     </task>
+    <task id="LOCAL-00001" summary=".gitignore">
+      <created>1560236205734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560236205734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69574000" />
+    <option name="totallyTimeSpent" value="72282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,10 +835,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30030257" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30030257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -738,19 +847,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.60580206" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.6051282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32820514" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -767,79 +876,65 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/service/filter/MyFilter.java" />
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/common/CommonUtil.java" />
     <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/HospehcWebApplication.java" />
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/HospehcServiceApplication.java" />
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MybatisConfig.java" />
-    <entry file="file://$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/pojo/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/mapper/AccountMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/service/HelloService.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/service/HelloService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/dao/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/resources/logback-prd.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/logback-spring.xml" />
-    <entry file="file://$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/util/TraceIdUtils.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/util/TraceIdUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" selection-start-column="52" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -857,27 +952,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/util/TraceIdFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/filter/MyFilter.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/filter/MyFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-95">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/StringUtils.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/utils/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
@@ -887,21 +970,14 @@
     <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/aop/LogAnnotation.java" />
     <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/aop/ServiceAspect.java" />
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/ServiceAspect.java" />
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/LogAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/aop/LogAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-api/src/main/java/com/ylzinfo/hospehc/service/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/aop/ServiceInterceptor.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/aop/ServiceInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
@@ -911,45 +987,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/spy/spymemcached/2.12.3/spymemcached-2.12.3.jar!/net/spy/memcached/MemcachedClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1828">
           <caret line="75" column="11" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/resources/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="118" selection-start-column="118" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="60" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/resources/logback-dev.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -962,77 +1003,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/SpyMemcachedManager.java" />
     <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MemcachedProperties.java" />
-    <entry file="file://$PROJECT_DIR$/hospehc-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/AccountServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/service/impl/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/service/impl/HelloServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/service/impl/HelloServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/DubboProviderApplication.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/utils/ActiveMQUtil.java" />
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/config/LocalSettingsEnvironmentPostProcessor.java" />
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/ActiveMQConfig.java" />
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/MemcachedConfig.java" />
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/aop/ControllerInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/utils/ActiveMQUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/config/LocalSettingsEnvironmentPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/DubboConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-web/src/main/java/com/ylzinfo/hospehc/aop/ControllerInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
+        <state relative-caret-position="119">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1040,24 +1031,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/logback-dev.xml">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/dao/AccountDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="11" column="73" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="73" />
+        <state relative-caret-position="306">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/config/DruidConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="47" column="48" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#721#722#0" expanded="true" />
@@ -1066,24 +1050,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/ActiveMQConfig.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/pojo/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-api/src/main/java/com/ylzinfo/hospemc/util/TraceIdFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hospehc-service/src/main/java/com/ylzinfo/hospehc/config/MemcachedConfig.java">
+    <entry file="file://$PROJECT_DIR$/hospemc-api/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="71">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/resources/mapper/AccountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/resources/logback-dev.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/resources/logback-prd.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/DubboConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#832#853#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/META-INF/dubbo/com.alibaba.dubbo.rpc.Filter">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/logback-dev.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/resources/logback-prd.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="85" column="46" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-web/src/main/java/com/ylzinfo/hospemc/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hospemc-service/src/main/java/com/ylzinfo/hospemc/DubboProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1093,7 +1200,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>hospehc-web:war</last-edited>
+          <last-edited>hospehc-web (1):war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1141,7 +1248,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hospehc</last-edited>
+          <last-edited>hospemc-web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1166,7 +1273,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.alibaba:com.dubbo:2.6.1</last-edited>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

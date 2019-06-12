@@ -7,11 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hospehc-api" />
-        <module name="hospehc-service" />
         <module name="hospehc-web" />
+        <module name="hospemc-api" />
+        <module name="hospemc-service" />
+        <module name="hospemc-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hospehc-api (2)" target="1.7" />
+      <module name="hospehc-service" target="1.7" />
+      <module name="hospehc-web (1)" target="1.7" />
       <module name="tool-api" target="1.7" />
     </bytecodeTargetLevel>
   </component>
